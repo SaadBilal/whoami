@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/wajahati/wajahati/blob/main/1_g93P5R81A26P-N03BpCr7A.gif">
 
 
-+ 🔭 I’m currently working on  **ZAROORAT**
++ 🔭 I’m currently working on  **Distruptions**
 + 🌱 I’m currently working on **AI/ML**
 + 👯 I’m looking to collaborate on **React Native**
 + 👨‍💻 All of my projects are available at [Repositories](https://github.com/SaadBilal?tab=repositories)
