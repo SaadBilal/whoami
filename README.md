@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=999999999&color=A93226&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+Saad+Bilal!" alt="Typing SVG" /></a></h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=#FF0000&center=true&vCenter=true&width=550&height=100&lines=SoftwarE+EngineeR;FulL-StacK+DevelopeR;ML+ExperT" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=A93226&center=true&vCenter=true&width=550&height=100&lines=SoftwarE+EngineeR;FulL-StacK+DevelopeR;ML+ExperT" alt="Typing SVG" /></a></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/saadbilal/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -31,7 +31,7 @@
 
 -------
 
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&duration=1&pause=99999999999999&color=7BF7ED&vCenter=true&multiline=true&width=770&height=45&lines=Languages+And+Tools%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&duration=1&pause=99999999999999&color=A93226&vCenter=true&multiline=true&width=770&height=45&lines=Languages+And+Tools%3A" alt="Typing SVG" /></a></h3>
 
 
 
@@ -47,14 +47,14 @@
 
 -------
 
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&duration=1&pause=99999999999999&color=7BF7ED&vCenter=true&multiline=true&width=770&height=45&lines=%F0%9F%93%8A+GitHub+Stats%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&duration=1&pause=99999999999999&color=A93226&vCenter=true&multiline=true&width=770&height=45&lines=%F0%9F%93%8A+GitHub+Stats%3A" alt="Typing SVG" /></a></h3>
 
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&border_radius=20&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED&background=45%2C00121D%2C1F3F3C)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&border_radius=20&border=000000&stroke=A93226&ring=A93226&fire=A93226&currStreakNum=A93226&sideNums=A93226&currStreakLabel=A93226&sideLabels=A93226&dates=A93226&excludeDaysLabel=A93226&background=45%2C00121D%2C1F3F3C)](https://git.io/streak-stats)-->
 
-<p><img align="left" src="https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&type=svg-xml&background=45%2C00121D%2C1F3F3C&border=000000&stroke=7BF7ED&ring=7BF7ED&fire=7BF7ED&currStreakNum=7BF7ED&sideNums=7BF7ED&currStreakLabel=7BF7ED&sideLabels=7BF7ED&dates=7BF7ED&excludeDaysLabel=7BF7ED&border_radius=20" alt="wajahati" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com?user=wajahati&theme=vue&hide_border=true&type=svg-xml&background=45%2C00121D%2C1F3F3C&border=000000&stroke=A93226&ring=A93226&fire=A93226&currStreakNum=A93226&sideNums=A93226&currStreakLabel=A93226&sideLabels=A93226&dates=A93226&excludeDaysLabel=A93226&border_radius=20" alt="wajahati" /></p>
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=wajahati&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true" alt="muhammedh-shadir" /></p>&border_radius=20 -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&layout=donut&hide=Blade&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=45%2C00121D%2C1F3F3C&border_color=000000&text_color=7BF7ED&title_color=7BF7ED&border_radius=20&icon_color=7BF7ED&card_width=260" alt="wajahati" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajahati&layout=donut&hide=Blade&size_weight=0.5&count_weight=0.5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=45%2C00121D%2C1F3F3C&border_color=000000&text_color=A93226&title_color=A93226&border_radius=20&icon_color=A93226&card_width=260" alt="wajahati" /></p>
 
 
 
@@ -64,14 +64,14 @@
 ![Snake animation](https://github.com/wajahati/wajahati/blob/output/github-contribution-grid-snake-dark.svg)
 -------
 
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=7BF7ED&vCenter=true&multiline=true&width=770&height=45&lines=Connect+With+Me%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=A93226&vCenter=true&multiline=true&width=770&height=45&lines=Connect+With+Me%3A" alt="Typing SVG" /></a></h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saadbilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saadbilal/" height="30" width="40" /></a>
 </p>
 
 -------
 
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=7BF7ED&vCenter=true&multiline=true&width=770&height=45&lines=Buy+Me+A+Coffee%3A" alt="Typing SVG" /></a></h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=A93226&vCenter=true&multiline=true&width=770&height=45&lines=Buy+Me+A+Coffee%3A" alt="Typing SVG" /></a></h3>
 <p><a href="https://www.buymeacoffee.com/saadzbilal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saadzbilal" /></a></p><br><br>
 
 
