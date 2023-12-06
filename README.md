@@ -66,7 +66,7 @@
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=A93226&vCenter=true&multiline=true&width=770&height=45&lines=Connect+With+Me%3A" alt="Typing SVG" /></a></h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saadbilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saadbilal/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saadbilal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saadbilal/" height="30" width="40" /></a>
 </p>
 
 -------
