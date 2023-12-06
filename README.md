@@ -72,7 +72,7 @@
 -------
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=20&duration=1&pause=99999999999999&color=A93226&vCenter=true&multiline=true&width=770&height=45&lines=Buy+Me+A+Coffee%3A" alt="Typing SVG" /></a></h3>
-<p><a href="https://www.buymeacoffee.com/saadzbilal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saadzbilal" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/saadbilal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="saadzbilal" /></a></p><br><br>
 
 
 <div align="center">
