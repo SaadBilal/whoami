@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=999999999&color=7BF7ED&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+Saad+Bilal!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=40&pause=999999999&color=FF0000&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,I'm+Saad+Bilal!" alt="Typing SVG" /></a></h1>
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=SoftwarE+EngineeR;FulL-StacK+DevelopeR;ML+ExperT" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=550&height=100&lines=SoftwarE+EngineeR;FulL-StacK+DevelopeR;ML+ExperT" alt="Typing SVG" /></a></h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/saadbilal/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajahati&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wajahati" /> </p>
-<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/wajahati/wajahati/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.webp"> -->
+<!-- <img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/wajahati/wajahati/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.webp](https://raw.githubusercontent.com/wajahati/wajahati/main/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.webp)"> -->
 
 <img align="right" alt="Coding" width="400" src="https://github.com/wajahati/wajahati/blob/main/1_g93P5R81A26P-N03BpCr7A.gif">
 
